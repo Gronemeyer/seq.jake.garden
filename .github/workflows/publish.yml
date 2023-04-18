@@ -15,8 +15,3 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: www
-      - uses: Gronemeyer/seq.jake.garden@main
-        with:
-          graph-directory: seq.garden
-          output-directory: out
-          version: nightly
