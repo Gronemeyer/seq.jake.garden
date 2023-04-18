@@ -1,14 +1,23 @@
-on: [push]
-
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '*.md'
 permissions:
   contents: write
 jobs:
   test:
     runs-on: ubuntu-latest
-    name: Publish Logseq graph
+    name: Run the action on a test graph and publish
     steps:
-      - uses: actions/checkout@v3
-      - uses: logseq/publish-spa@v0.1.0
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Run github action
+        uses: logseq/publish-spa@main
+        with:
+          graph-directory: test/publish-test-graph
+
       - name: add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
