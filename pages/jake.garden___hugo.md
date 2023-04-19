@@ -1,0 +1,3 @@
+- [[Cloudflare]] static page integration
+	- https://gohugo.io/commands/hugo_version/
+	- https://developers.cloudflare.com/pages/framework-guides/deploy-anything
