@@ -1,0 +1,8 @@
+hypothesis-uri:: https://en.wikipedia.org/wiki/Propositional_attitude
+hypothesis-title:: Propositional attitude - Wikipedia
+hypothesis-naming-scheme:: 0.2.0
+
+- 📌 A propositional attitude is a mental state held by an agent or organism toward a proposition. In philosophy, propositional attitudes can be considered to be neurally-realized causally efficacious content-bearing internal states.
+  Linguistically, propositional attitudes are denoted by a verb  (e.g. "believed") governing an embedded "that" clause, for example, 'Sally believed that she had won'.
+  Propositional attitudes are often assumed to be the fundamental units of thought and their contents, being propositions, are true or false from the perspective of the person. An agent can have different propositional attitudes toward the same proposition (e.g., "S believes that her ice-cream is cold," and "S fears that her ice-cream is cold") #philosophy
+- 📌 What sort of name shall we give to verbs like 'believe' and 'wish' and so forth?  I should be inclined to call them 'propositional verbs'.  This is merely a suggested name for convenience, because they are verbs which have the form of relating an object to a proposition.  As I have been explaining, that is not what they really do, but it is convenient to call them propositional verbs.  Of course you might call them 'attitudes', but I should not like that because it is a psychological term, and although all the instances in our experience are psychological, there is no reason to suppose that all the verbs I am talking of are psychological.  There is never any reason to suppose that sort of thing.  (Russell 1918, 227) #philosophy

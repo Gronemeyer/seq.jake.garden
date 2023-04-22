@@ -1,2 +1,0 @@
-- #github
-	- template: https://github.com/logseq/publish-spa
