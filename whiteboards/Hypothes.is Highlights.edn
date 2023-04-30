@@ -1,0 +1,99 @@
+{:blocks (
+{:block/created-at 1682815207711
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "644dafca-f561-4247-98b2-50e7a318b309"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 136.99997954087266]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4dfb4b00-e6ef-11ed-9066-b564e7124824"
+:noFill false
+:point [-911.3462375163359 -590.7263759864951]
+:parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
+:collapsedHeight 0
+:nonce 1682815099981}}
+:block/updated-at 1682815207711} 
+{:block/created-at 1682815207711
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "644dafca-07d1-4257-8938-c1bb0a92d136"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 136.99997954087266]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "599e9250-e6ef-11ed-9066-b564e7124824"
+:noFill false
+:point [-923.0707425758525 -387.94791241139376]
+:parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
+:collapsedHeight 0
+:nonce 1682815119417}}
+:block/updated-at 1682815207711} 
+{:block/created-at 1682815207711
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "644dafc9-e87d-41c1-9b75-8bdb7f97eea9"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 136.9999209507214]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8242c6e0-e6ef-11ed-9066-b564e7124824"
+:noFill false
+:point [-928.8303888052949 -190.20005853386192]
+:parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
+:collapsedHeight 0
+:nonce 1682815187647}}
+:block/updated-at 1682815207711})
+:pages (
+{:block/uuid #uuid "644db837-b099-4ef8-afce-231ed46a4ac4"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "644db837-b099-4ef8-afce-231ed46a4ac4"
+:name "hypothes.is highlights"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("4dfb4b00-e6ef-11ed-9066-b564e7124824" "599e9250-e6ef-11ed-9066-b564e7124824" "8242c6e0-e6ef-11ed-9066-b564e7124824")}}
+:block/updated-at 1682815207711
+:block/created-at 1682815031042
+:block/type "whiteboard"
+:block/name "hypothes.is highlights"
+:block/original-name "Hypothes.is Highlights"})}
