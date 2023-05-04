@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1682815756556
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -25,8 +25,8 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :collapsedHeight 0
 :nonce 1682815100161}}
-:block/updated-at 1682815756556} 
-{:block/created-at 1682815756556
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -52,8 +52,8 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :collapsedHeight 0
 :nonce 1682815119549}}
-:block/updated-at 1682815756556} 
-{:block/created-at 1682815756556
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -79,8 +79,8 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :collapsedHeight 0
 :nonce 1682815188017}}
-:block/updated-at 1682815756556} 
-{:block/created-at 1682815756556
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -108,8 +108,8 @@
 :nonce 1682815363123
 :italic false
 :text "📌 This indicates a highlight from the linked text using Hypothes.is\n📝 This indicates my annotations"}}
-:block/updated-at 1682815756556} 
-{:block/created-at 1682815756556
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -135,8 +135,8 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :collapsedHeight 94.99998375022241
 :nonce 1682815488416}}
-:block/updated-at 1682815756556} 
-{:block/created-at 1682815756556
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -162,8 +162,8 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :collapsedHeight 94.99998375022241
 :nonce 1682815600281}}
-:block/updated-at 1682815756556} 
-{:block/created-at 1682815756556
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -189,8 +189,8 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :collapsedHeight 94.99998375022241
 :nonce 1682815661862}}
-:block/updated-at 1682815756556} 
-{:block/created-at 1682815756556
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -218,8 +218,8 @@
 :nonce 1682815673365
 :italic false
 :text "These are highlights grouped by #tags"}}
-:block/updated-at 1682815756556} 
-{:block/created-at 1682815756555
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304555
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -243,8 +243,8 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :nonce 1682815692581
 :italic false}}
-:block/updated-at 1682815756555} 
-{:block/created-at 1682815756556
+:block/updated-at 1682816304555} 
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -270,8 +270,8 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :nonce 1682815692807
 :italic false}}
-:block/updated-at 1682815756556} 
-{:block/created-at 1682815756556
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -291,8 +291,8 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :nonce 1682815751159
 :isComplete true}}
-:block/updated-at 1682815756556} 
-{:block/created-at 1682815756556
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304557
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -312,8 +312,9 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :nonce 1682815755088
 :isComplete true}}
-:block/updated-at 1682815756556} 
-{:block/properties 
+:block/updated-at 1682816304557} 
+{:block/created-at 1682816304557
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -332,7 +333,27 @@
 :parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
 :nonce 1682815756077
 :isComplete true}}
-:block/updated-at 1682815756556})
+:block/updated-at 1682816304557} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1be61110-e6f2-11ed-9066-b564e7124824"
+:noFill true
+:point [306.94369505497116 -214.06838768818102]
+:parentId "644db837-b099-4ef8-afce-231ed46a4ac4"
+:nonce 1682816304291
+:isComplete true}}
+:block/updated-at 1682816304557})
 :pages (
 {:block/uuid #uuid "644db837-b099-4ef8-afce-231ed46a4ac4"
 :block/properties 
@@ -344,8 +365,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("4dfb4b00-e6ef-11ed-9066-b564e7124824" "599e9250-e6ef-11ed-9066-b564e7124824" "8242c6e0-e6ef-11ed-9066-b564e7124824" "eabed2e0-e6ef-11ed-9066-b564e7124824" "35868020-e6f0-11ed-9066-b564e7124824" "7832ad40-e6f0-11ed-9066-b564e7124824" "9cf95980-e6f0-11ed-9066-b564e7124824" "a3cf3a40-e6f0-11ed-9066-b564e7124824" "af407510-e6f0-11ed-9066-b564e7124824" "c3afeee0-e6f0-11ed-9066-b564e7124824" "d22e90c0-e6f0-11ed-9066-b564e7124824" "d48a5b10-e6f0-11ed-9066-b564e7124824" "d520ceb0-e6f0-11ed-9066-b564e7124824")}}
-:block/updated-at 1682815756555
+:shapes-index ("4dfb4b00-e6ef-11ed-9066-b564e7124824" "599e9250-e6ef-11ed-9066-b564e7124824" "8242c6e0-e6ef-11ed-9066-b564e7124824" "eabed2e0-e6ef-11ed-9066-b564e7124824" "35868020-e6f0-11ed-9066-b564e7124824" "7832ad40-e6f0-11ed-9066-b564e7124824" "9cf95980-e6f0-11ed-9066-b564e7124824" "a3cf3a40-e6f0-11ed-9066-b564e7124824" "af407510-e6f0-11ed-9066-b564e7124824" "c3afeee0-e6f0-11ed-9066-b564e7124824" "d22e90c0-e6f0-11ed-9066-b564e7124824" "d48a5b10-e6f0-11ed-9066-b564e7124824" "d520ceb0-e6f0-11ed-9066-b564e7124824" "1be61110-e6f2-11ed-9066-b564e7124824")}}
+:block/updated-at 1682816304555
 :block/created-at 1682815031042
 :block/type "whiteboard"
 :block/name "hypothes.is highlights"
